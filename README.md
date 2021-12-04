@@ -8,6 +8,8 @@
 
 `@truffle\hdwallet-provider:2.0.0`
 
+`@openzeppelin/contracts:4.4.0`
+
 ## Token name and symbol
 
 `Bhattarai Token` `BTT`
